@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+myenv/
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+*.env
+
+# Generated audio (keep only samples)
+generated_audio/
+output_*.wav
+output_*.mp3
+pipeline_results.json
+input_processor_test_outputs.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# HuggingFace cache
+.cache/
