@@ -1,0 +1,13 @@
+openai
+streamlit
+transformers
+torchaudio
+music21
+mido
+pretty_midi
+pydub
+scipy
+accelerate
+
+groq
+python-dotenv
