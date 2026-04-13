@@ -51,3 +51,5 @@ for i,prompt in enumerate(prompts,1):
 # tested multiple prompts in loop
 
 # fixed audio array shape
+
+# verified output shape and sample rate
