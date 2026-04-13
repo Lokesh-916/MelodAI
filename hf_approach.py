@@ -47,3 +47,5 @@ for i,prompt in enumerate(prompts,1):
     print(f"Saved as output_{i}.wav")
 
 # verified output shape and sample rate
+
+# tested multiple prompts in loop
