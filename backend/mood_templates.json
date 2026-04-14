@@ -1,0 +1,12 @@
+{
+  "happy": "upbeat, cheerful, bright instruments, positive vibes, {tempo} BPM",
+  "sad": "melancholic, minor key, emotional tone, reflective feeling, {tempo} BPM",
+  "energetic": "high energy, fast-paced, driving beat, intense rhythm, {tempo} BPM",
+  "calm": "soft pads, slow movement, ambient textures, gentle mood, {tempo} BPM",
+  "romantic": "warm acoustic tones, expressive phrasing, gentle rhythm, {tempo} BPM",
+  "intense": "dramatic, bold dynamics, cinematic pulses, {tempo} BPM",
+  "mysterious": "dark pads, sparse percussion, atmospheric space, {tempo} BPM",
+  "groovy": "syncopated rhythm, bass-driven groove, percussive elements, {tempo} BPM",
+  "neutral": "balanced tone, moderate movement, clear sound, {tempo} BPM"
+}
+
