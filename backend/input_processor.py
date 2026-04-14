@@ -217,3 +217,5 @@ if __name__ == "__main__":
 # context field added to fallback output
 
 # strip whitespace from llm response
+
+# DEFAULTS and PROMPT_TEMPLATE added
