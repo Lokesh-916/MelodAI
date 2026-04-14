@@ -219,3 +219,5 @@ if __name__ == "__main__":
 # strip whitespace from llm response
 
 # DEFAULTS and PROMPT_TEMPLATE added
+
+# groq client wired up
