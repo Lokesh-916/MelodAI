@@ -233,3 +233,5 @@ if __name__ == "__main__":
 # negative instrument exclusion
 
 # process() complete
+
+# __main__ test harness
