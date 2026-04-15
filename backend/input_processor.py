@@ -223,3 +223,5 @@ if __name__ == "__main__":
 # groq client wired up
 
 # _call_llm with retry
+
+# _parse_json_block with regex
