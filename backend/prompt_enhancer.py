@@ -79,3 +79,5 @@ class PromptEnhancer:
 # production note injection at 30pct
 
 # refactor: mood template loading at module level
+
+# build_core implemented
