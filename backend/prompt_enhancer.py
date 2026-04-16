@@ -91,3 +91,5 @@ class PromptEnhancer:
 # production note injection
 
 # refactor: module level templates
+
+# feat: context-aware variation scoring
