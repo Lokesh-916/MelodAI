@@ -81,3 +81,5 @@ class PromptEnhancer:
 # refactor: mood template loading at module level
 
 # build_core implemented
+
+# add_terms implemented
