@@ -85,3 +85,5 @@ class PromptEnhancer:
 # add_terms implemented
 
 # enhance() with n_variations
+
+# random instrument shuffle
