@@ -87,3 +87,5 @@ class PromptEnhancer:
 # enhance() with n_variations
 
 # random instrument shuffle
+
+# production note injection
