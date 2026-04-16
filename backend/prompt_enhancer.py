@@ -83,3 +83,5 @@ class PromptEnhancer:
 # build_core implemented
 
 # add_terms implemented
+
+# enhance() with n_variations
