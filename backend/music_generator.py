@@ -177,3 +177,5 @@ class MusicGenerator:
 # _safe_write_wav
 
 # pydub check
+
+# _convert_wav_to_mp3
