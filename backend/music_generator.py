@@ -187,3 +187,5 @@ class MusicGenerator:
 # _map_params
 
 # generate() with retry
+
+# mp3 conversion
