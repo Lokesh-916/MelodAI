@@ -173,3 +173,5 @@ class MusicGenerator:
 # variation_index in result dict
 
 # _float_or_int16 helper
+
+# _safe_write_wav
