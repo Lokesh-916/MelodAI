@@ -171,3 +171,5 @@ class MusicGenerator:
 # improved error messages
 
 # variation_index in result dict
+
+# _float_or_int16 helper
