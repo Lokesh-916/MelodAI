@@ -183,3 +183,5 @@ class MusicGenerator:
 # _ensure_ffmpeg_pydub guard
 
 # MusicGenerator init
+
+# _map_params
