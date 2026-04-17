@@ -185,3 +185,5 @@ class MusicGenerator:
 # MusicGenerator init
 
 # _map_params
+
+# generate() with retry
