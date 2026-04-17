@@ -181,3 +181,5 @@ class MusicGenerator:
 # _convert_wav_to_mp3
 
 # _ensure_ffmpeg_pydub guard
+
+# MusicGenerator init
