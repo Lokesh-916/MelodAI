@@ -100,3 +100,5 @@ if __name__ == "__main__":
 # MusicGenerator wired
 
 # pipeline orchestration
+
+# structured logs
