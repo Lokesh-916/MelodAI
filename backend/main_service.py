@@ -98,3 +98,5 @@ if __name__ == "__main__":
 # PromptEnhancer wired
 
 # MusicGenerator wired
+
+# pipeline orchestration
