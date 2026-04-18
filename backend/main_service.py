@@ -94,3 +94,5 @@ if __name__ == "__main__":
 # end to end verified
 
 # InputProcessor wired
+
+# PromptEnhancer wired
