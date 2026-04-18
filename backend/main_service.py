@@ -104,3 +104,5 @@ if __name__ == "__main__":
 # structured logs
 
 # error handling per stage
+
+# __main__ test prompts
