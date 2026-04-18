@@ -96,3 +96,5 @@ if __name__ == "__main__":
 # InputProcessor wired
 
 # PromptEnhancer wired
+
+# MusicGenerator wired
