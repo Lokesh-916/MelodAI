@@ -239,3 +239,5 @@ if __name__ == "__main__":
 # single-quote json fallback
 
 # test outputs saved
+
+# fix: strip markdown fences
