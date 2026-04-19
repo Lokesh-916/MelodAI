@@ -195,3 +195,5 @@ class MusicGenerator:
 # fix: explicit ffmpeg check
 
 # fix: clip float audio
+
+# refactor: module level config
