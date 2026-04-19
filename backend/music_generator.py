@@ -193,3 +193,5 @@ class MusicGenerator:
 # generate_with_mapping
 
 # fix: explicit ffmpeg check
+
+# fix: clip float audio
