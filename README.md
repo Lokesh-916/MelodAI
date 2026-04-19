@@ -213,3 +213,5 @@ Built with [Facebook MusicGen](https://github.com/facebookresearch/audiocraft) Â
 <!-- sample prompts and usage -->
 
 <!-- limitations section added -->
+
+<!-- pipeline diagram -->
