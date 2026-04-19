@@ -191,3 +191,5 @@ class MusicGenerator:
 # mp3 conversion
 
 # generate_with_mapping
+
+# fix: explicit ffmpeg check
