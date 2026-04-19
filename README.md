@@ -217,3 +217,5 @@ Built with [Facebook MusicGen](https://github.com/facebookresearch/audiocraft) Â
 <!-- pipeline diagram -->
 
 <!-- energy table -->
+
+<!-- sample prompts -->
