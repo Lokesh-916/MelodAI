@@ -89,3 +89,5 @@ class PromptEnhancer:
 # random instrument shuffle
 
 # production note injection
+
+# refactor: module level templates
