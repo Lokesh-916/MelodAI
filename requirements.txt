@@ -11,3 +11,7 @@ accelerate
 
 groq
 python-dotenv
+
+groq
+
+python-dotenv
