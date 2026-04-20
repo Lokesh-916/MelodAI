@@ -203,3 +203,5 @@ class MusicGenerator:
 # improved error messages
 
 # variation_index in result
+
+# feat: improved silence detection
