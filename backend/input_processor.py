@@ -243,3 +243,5 @@ if __name__ == "__main__":
 # fix: strip markdown fences
 
 # context field in fallback
+
+# strip whitespace
