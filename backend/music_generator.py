@@ -199,3 +199,5 @@ class MusicGenerator:
 # refactor: module level config
 
 # cleanup: unused imports removed
+
+# improved error messages
