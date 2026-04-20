@@ -241,3 +241,5 @@ if __name__ == "__main__":
 # test outputs saved
 
 # fix: strip markdown fences
+
+# context field in fallback
