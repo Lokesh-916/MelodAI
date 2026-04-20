@@ -245,3 +245,5 @@ if __name__ == "__main__":
 # context field in fallback
 
 # strip whitespace
+
+# feat: exponential backoff on groq retry
