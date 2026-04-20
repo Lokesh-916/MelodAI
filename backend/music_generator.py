@@ -201,3 +201,5 @@ class MusicGenerator:
 # cleanup: unused imports removed
 
 # improved error messages
+
+# variation_index in result
