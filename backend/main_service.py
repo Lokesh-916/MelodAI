@@ -114,3 +114,5 @@ if __name__ == "__main__":
 # end to end verified
 
 # feature: pipeline result caching
+
+# feat: pipeline stage timing logs
