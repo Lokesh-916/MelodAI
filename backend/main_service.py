@@ -106,3 +106,5 @@ if __name__ == "__main__":
 # error handling per stage
 
 # __main__ test prompts
+
+# ensure out_dir
